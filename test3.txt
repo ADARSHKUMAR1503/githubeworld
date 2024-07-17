@@ -1,1 +1,2 @@
 text3
+test 3 file edited
